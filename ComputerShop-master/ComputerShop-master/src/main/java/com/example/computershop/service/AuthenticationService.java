@@ -6,6 +6,7 @@ import com.example.computershop.entity.User;
 import com.example.computershop.enums.Role;
 import com.example.computershop.exception.AuthenticationException;
 import com.example.computershop.repository.UserRepository;
+import com.example.computershop.service.impl.EmailService;
 import jakarta.mail.MessagingException;
 import jakarta.validation.constraints.NotNull;
 import lombok.AccessLevel;
