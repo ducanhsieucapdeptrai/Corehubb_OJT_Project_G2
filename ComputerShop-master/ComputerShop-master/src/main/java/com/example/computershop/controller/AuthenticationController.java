@@ -5,7 +5,7 @@ import com.example.computershop.dto.request.UserCreationRequest;
 import com.example.computershop.dto.request.VerifyUserRequest;
 import com.example.computershop.exception.AuthenticationException;
 import com.example.computershop.service.AuthenticationService;
-import com.example.computershop.service.impl.RecaptchaService;
+import com.example.computershop.service.RecaptchaService;
 import jakarta.validation.Valid;
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
