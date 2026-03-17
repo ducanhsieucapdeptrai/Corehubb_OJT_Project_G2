@@ -1,4 +1,4 @@
-package com.example.computershop.service.impl;
+package com.example.computershop.service;
 
 import com.example.computershop.dto.ProductSalesDTO;
 import com.example.computershop.entity.Products;

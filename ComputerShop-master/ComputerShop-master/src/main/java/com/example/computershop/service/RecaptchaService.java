@@ -1,4 +1,4 @@
-package com.example.computershop.service.impl;
+package com.example.computershop.service;
 
 import com.example.computershop.config.RecaptchaConfig;
 import com.example.computershop.dto.RecaptchaResponse;
