@@ -2,7 +2,6 @@ package com.example.computershop.repository;
 
 import com.example.computershop.entity.Cart;
 import com.example.computershop.entity.ProductVariant;
-import com.example.computershop.entity.Products;
 import com.example.computershop.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

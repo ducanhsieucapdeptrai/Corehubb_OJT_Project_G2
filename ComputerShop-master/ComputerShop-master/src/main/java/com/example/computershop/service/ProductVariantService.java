@@ -1,7 +1,6 @@
 package com.example.computershop.service;
 
 import com.example.computershop.entity.ProductVariant;
-import com.example.computershop.entity.Products;
 import com.example.computershop.repository.ProductVariantRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;

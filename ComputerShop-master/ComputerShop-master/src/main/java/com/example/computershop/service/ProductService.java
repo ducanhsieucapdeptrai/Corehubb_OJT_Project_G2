@@ -1,7 +1,6 @@
 package com.example.computershop.service;
 
 import com.example.computershop.dto.ProductSalesDTO;
-import com.example.computershop.entity.Products;
 import com.example.computershop.repository.ProductRepository;
 import lombok.AllArgsConstructor;
 import org.slf4j.Logger;

@@ -1,7 +1,5 @@
 package com.example.computershop.dto;
 
-import com.example.computershop.entity.Products;
-
 import java.math.BigDecimal;
 
 public class ProductSalesDTO {

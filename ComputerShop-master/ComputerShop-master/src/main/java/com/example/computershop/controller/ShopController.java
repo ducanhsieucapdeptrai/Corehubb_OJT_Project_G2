@@ -4,7 +4,6 @@ import com.example.computershop.dto.ProductRatingDTO;
 import com.example.computershop.entity.Categories;
 import com.example.computershop.entity.ProductSpecifications;
 import com.example.computershop.entity.ProductVariant;
-import com.example.computershop.entity.Products;
 import com.example.computershop.service.*;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

@@ -1,7 +1,6 @@
 package com.example.computershop.controller;
 
 import com.example.computershop.dto.ProductSalesDTO;
-import com.example.computershop.entity.Products;
 import com.example.computershop.service.OrderService;
 import com.example.computershop.service.ProductService;
 import com.example.computershop.service.UserService;

@@ -1,7 +1,6 @@
 package com.example.computershop.controller;
 
 import com.example.computershop.entity.Categories;
-import com.example.computershop.entity.Products;
 import com.example.computershop.entity.User;
 import com.example.computershop.repository.CartRepository;
 import com.example.computershop.repository.UserRepository;

@@ -1,7 +1,6 @@
 package com.example.computershop.dto;
 
 import com.example.computershop.entity.ProductVariant;
-import com.example.computershop.entity.Products;
 
 /**
  * Display DTO for cart items in templates

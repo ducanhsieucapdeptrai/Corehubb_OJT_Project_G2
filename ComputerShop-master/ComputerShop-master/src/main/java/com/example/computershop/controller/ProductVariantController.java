@@ -1,7 +1,6 @@
 package com.example.computershop.controller;
 
 import com.example.computershop.entity.ProductVariant;
-import com.example.computershop.entity.Products;
 import com.example.computershop.entity.VariantFieldConfig;
 import com.example.computershop.service.ProductService;
 import com.example.computershop.service.ProductVariantService;

@@ -2,7 +2,6 @@ package com.example.computershop.controller;
 
 import com.example.computershop.entity.ExportOrder;
 import com.example.computershop.entity.ExportOrderDetail;
-import com.example.computershop.entity.Products;
 import com.example.computershop.repository.ExportOrderDetailRepository;
 import com.example.computershop.repository.ProductRepository;
 import com.example.computershop.service.ExportOrderService;
