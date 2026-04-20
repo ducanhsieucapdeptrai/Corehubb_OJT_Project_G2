@@ -4,14 +4,14 @@ import lombok.Getter;
 
 @Getter
 public enum Role {
-    Admin("Admin"),
-    ADMIN("Admin"), // Backward compatibility
-    Customer("Customer"),
-    CUSTOMER("CUSTOMER"), // For uppercase conversion
-    Shipper("Shipper"),
-    SHIPPER("SHIPPER"), // For uppercase conversion
-    Sales("Sales"),
-    SALES("Sales"); // For uppercase conversion
+    Admin("Quản trị viên"),
+    ADMIN("Quản trị viên"), // Backward compatibility
+    Customer("Người dùng"),
+    CUSTOMER("Người dùng"), // For uppercase conversion
+    Shipper("Nhân viên vận chuyển"),
+    SHIPPER("Nhân viên vận chuyển"), // For uppercase conversion
+    Sales("Nhân viên bán hàng"),
+    SALES("Nhân viên bán hàng"); // For uppercase conversion
 
     private final String displayName;
 
