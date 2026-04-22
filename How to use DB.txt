@@ -1,0 +1,2 @@
+Create an empty database "ComputerShop"
+Then run the script and the project will be ready to use
